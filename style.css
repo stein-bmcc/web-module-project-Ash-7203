@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+   /* NAVIGATION STYLING */
+    nav ul{
+        list-style-type: non;
+        padding: 0;
+        margin: 0;
+    }
+
+    nav li{
+        display: inline-block;
+        margin-right: 15px;
+        color:black
+    }
+
+    nav {
+        background-color: blue;
+        padding: 10px;
+    }
+
+body{
+    background-color: #d0b2d9;
+    color:black;
+
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    font-family: "Sour Gummy", sans-serif;
+}
+
+img, video{
+    max-width: 50%;
+    height: auto;
+}
+
+figure {
+    margin: 0;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2rem;
+    background-color: aquamarine;
+    padding: 15px;
+}
